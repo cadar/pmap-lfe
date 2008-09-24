@@ -1,0 +1,6 @@
+http://cadaro.wordpress.com/2008/09/20/parallel-map-lfe/
+
+
+git clone git://github.com/cadar/pmap-lfe.git
+cd pmap-lfe
+make start
